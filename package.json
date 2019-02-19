@@ -1,17 +1,24 @@
 
 {
   "name": "react-native-close-app",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "React Native Close App",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
-    "react-native"
+    "react-native",
+    "exit-app",
+    "close-app",
+    "react-native-close-app"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "jundat95",
+    "url": "https://jundat95.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jundat95/react-native-close-app.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }

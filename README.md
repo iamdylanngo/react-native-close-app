@@ -1,25 +1,26 @@
 
-# react-native-close-app
+# React Native Close App
+React Native Close App Module help us close application work on Android, IOS
 
 ## Getting started
 
 `$ npm install react-native-close-app --save`
 
-### Mostly automatic installation
+## Mostly automatic installation
 
 `$ react-native link react-native-close-app`
 
-### Manual installation
+## Manual installation
 
 
-#### iOS
+## iOS
 
 1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
 2. Go to `node_modules` ➜ `react-native-close-app` and add `RNCloseApp.xcodeproj`
 3. In XCode, in the project navigator, select your project. Add `libRNCloseApp.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
 4. Run your project (`Cmd+R`)<
 
-#### Android
+## Android
 
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
   - Add `import com.jundat95.rncloseapp.RNCloseAppPackage;` to the imports at the top of the file
