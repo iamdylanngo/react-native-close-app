@@ -7,5 +7,5 @@ declare module 'react-native-close-app' {
       close: () => void
   };
 
-  export = RNCloseApp;
+  export default RNCloseApp;
 }
