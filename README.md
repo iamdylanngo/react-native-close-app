@@ -32,7 +32,7 @@ React Native Close App Module help us close application work on Android, IOS
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':react-native-close-app')
+      implementation project(':react-native-close-app')
   	```
 
 
@@ -40,7 +40,7 @@ React Native Close App Module help us close application work on Android, IOS
 ```javascript
 import RNCloseApp from 'react-native-close-app';
 
-// TODO: What to do with the module?
-RNCloseApp;
+
+RNCloseApp.close();
 ```
   
