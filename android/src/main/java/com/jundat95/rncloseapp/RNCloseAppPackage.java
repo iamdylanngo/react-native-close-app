@@ -1,4 +1,3 @@
-
 package com.jundat95.rncloseapp;
 
 import java.util.Arrays;

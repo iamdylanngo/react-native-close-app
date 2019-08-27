@@ -1,4 +1,3 @@
-
 package com.jundat95.rncloseapp;
 
 import com.facebook.react.bridge.ReactApplicationContext;
