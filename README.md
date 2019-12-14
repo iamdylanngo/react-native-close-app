@@ -1,5 +1,5 @@
 # React Native Close App
-React Native Close App Module help us close application work on Android, IOS
+React Native Close App Module is deprecated, you can use module react-native-exit-app: [https://www.npmjs.com/package/react-native-exit-app](https://www.npmjs.com/package/react-native-exit-app)
 
 [Go to NPM](https://www.npmjs.com/package/react-native-close-app)
 
